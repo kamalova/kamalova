@@ -1,7 +1,7 @@
 ## Hi there, I'm  Nurgul 👋 <p>
   
 Based out of New York Metropolitan Area <p>
-Interested in Data Science, Machine Learning, Big Data & MLOps🌱 <p>
+I am fascinated by Data Science, Machine Learning, Big Data & MLOps🌱 <p>
 Currently learning more on Deep Learning (NLP & CV) 📚 <p>
 
 <!--
