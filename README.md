@@ -1,4 +1,4 @@
-## Hi there, I'm  Nurgul Kurbanali kyzy 👋 <p>
+## Hi there, I'm  Nurgul 👋 <p>
   
 Based out of New York Metropolitan Area <p>
 Interested in Data Science, Machine Learning & Big Data 🌱 <p>
