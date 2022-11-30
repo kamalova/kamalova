@@ -1,4 +1,4 @@
-## Hi there, I'm  Nurgul (Radiant Rose) 👋 <p>
+## Hi there, I'm  Nurgul *(Radiant Rose)* 👋 <p>
   
 Based out of New York Metropolitan Area <p>
 I am fascinated by Data Science, Machine Learning, Big Data & MLOps🌱 <p>
