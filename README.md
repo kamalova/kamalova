@@ -1,7 +1,7 @@
 ## Hi there, I'm  Nurgul *(Radiant Rose)* 👋 <p>
 
 #### My life motto is learning consistently, even if small 🌱 <p>
-#### I am fascinated by Data Science, Machine Learning, Big Data & MLOps :woman_technologist: <p>
+#### I am fascinated by Data Science, Machine Learning, Big Data  :woman_technologist: <p>
 #### Currently learning more on Deep Learning (NLP & CV) :brain: <p>
 
 <!--
